@@ -1,0 +1,1 @@
+Fazer um algoritmo que leia um numero (1 < numero < 10000 e, caso nao seja, deve ser novamente solicitado.) e caso ele nao seja um numero palindromo (capicua), apontar qual o numero palindromo (capicua) mais proximo a seguir dele.
